@@ -1699,3 +1699,17 @@
     width: 646px !important;
 }
 /*--- Chat Single Css End -----*/
+._nav_list {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+._nav_form_list {
+    margin:0 12px;
+}
+._nav_form_list_link {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.2;
+    color:var(--color5);
+}
